@@ -1,4 +1,4 @@
-package ds.util.algorithm.collectionframework;
+package ds.util.algorithm.cf.classes;
 
 import java.util.*;
 
@@ -381,7 +381,7 @@ class PriorityQueueExamples {
 
 
 // ArrayDeque Class Examples
-class ArrayDequeExamples {
+ class ArrayDequeExamples {
     public void runExamples() {
         ArrayDeque<String> arrayDeque1 = new ArrayDeque<>();
         arrayDeque1.add("Apple");

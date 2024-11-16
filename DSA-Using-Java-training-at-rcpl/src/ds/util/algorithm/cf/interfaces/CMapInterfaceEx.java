@@ -1,4 +1,4 @@
-package ds.util.algorithm.collectionframework;
+package ds.util.algorithm.cf.interfaces;
 
 import java.util.Arrays;
 import java.util.Dictionary;

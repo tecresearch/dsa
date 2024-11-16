@@ -1,4 +1,4 @@
-package ds.util.algorithm.collectionframework;
+package ds.util.algorithm.cf.interfaces;
 
 import java.util.ArrayDeque;
 import java.util.ArrayList;
@@ -30,7 +30,7 @@ import java.util.TreeSet;
 import java.util.Vector;
 import java.util.WeakHashMap;
 
-import ds.util.algorithm.collectionframework.QueueExamples.Customer;
+import ds.util.algorithm.cf.interfaces.QueueExamples.Customer;
 
 
 //Collection Interface Examples

@@ -1,4 +1,4 @@
-package ds.util.algorithm.collectionframework;
+package ds.util.algorithm.cf.classes;
 
 import java.util.Dictionary;
 import java.util.Enumeration;
